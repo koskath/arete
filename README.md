@@ -27,7 +27,7 @@ For questions, feedback, or collaboration opportunities, please reach out:
 
 - **Email:** kok.digi@cbs.dk
 - **GitHub:** [koskath/arete](https://github.com/koskath/arete)
-- **LinkedIn:** [Konstantinos Katharakis](www.linkedin.com/in/konstantinos-katharakis)
+- **LinkedIn:** [Konstantinos Katharakis](https://www.linkedin.com/in/konstantinos-katharakis)
 - **Institution:** [Copenhagen Business School - Department of Digitalisation](https://www.cbs.dk/en/research/departments/department-digitalisation)
 
 ---
