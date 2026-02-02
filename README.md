@@ -36,7 +36,7 @@ For questions, feedback, or collaboration opportunities, please reach out:
 
 This repository contains two main components:
 
-### 📦 `arete_deployment`
+### `arete_deployment`
 
 The deployment folder contains the production-ready application consisting of:
 
@@ -59,7 +59,7 @@ The deployment folder contains the production-ready application consisting of:
 - Frontend: Next.js, React, TypeScript, Tailwind CSS
 - Models: Fine-tuned Mistral, Codestral, Llama Cloud
 
-### 🔬 `arete_workshop`
+### `arete_workshop`
 
 The workshop folder contains experimental code, research scripts, and development tools for:
 
