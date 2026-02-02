@@ -1,0 +1,3 @@
+# Slide 42 of Lecture 3 contains information about the DBSCAN.
+
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise) relies on two parameters, Eps and MinPts, typically set based on experience, to find high-density core samples and expand clusters from them, making it well suited to datasets with clusters of similar density, though its worst-case memory complexity is O(n^2) when epsilon is large and MinPts is small.  On the graph, with MinPts = 4, red points are core points, because the area surronding these points in an ε radius contain at least 4 points, including the point itself. Yellow are not core points. Point N is a noise point.

@@ -1,0 +1,3 @@
+# Slide 5 of Lecture 12 contains information about the Autoencoder.
+
+Codings are the byproducts of an autoencoder that learns the identity function under specific constraints. The network observes the inputs, compresses them into an efficient latent representation, and then produces an output that ideally matches the original data; for example, noise can be added to the inputs so the network is trained to recover the clean signal. Every autoencoder contains two main components: an encoder (or recognition network) that maps inputs into the latent space and a decoder (or generative network) that transforms that internal representation back into the output space.

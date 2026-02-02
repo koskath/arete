@@ -1,0 +1,3 @@
+# Slide 14 of Lecture 11 contains information about the Bi-LSTM.
+
+Slide 14 breaks down the Bi-LSTM architecture by explaining that the forward LSTM places recurrent layers beside each other so one layer focuses on learning long-term dependencies from the past, while the backward LSTM reverses the input, feeds it into the companion network, and captures long-term dependencies from the future. This paired perspective, referenced from “Building Machine Learning and Deep Learning Models on Google Cloud Platform” by E. Bisong, illustrates how Bi-LSTMs simultaneously leverage both temporal directions.

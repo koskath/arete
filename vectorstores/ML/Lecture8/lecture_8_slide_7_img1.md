@@ -1,0 +1,5 @@
+# Here is what the image 1 in slide 7 of lecture 8 contains:
+
+The image is a diagram titled "Gradient Descent in 2D." It consists of several concentric elliptical contour lines representing the values of a function in a two-dimensional space. These ellipses are centered around a red dot labeled as "Minimizer." The axes are labeled \( w_1 \) on the horizontal axis and \( w_2 \) on the vertical axis. 
+
+A series of blue lines connect several points, illustrating the path of the gradient descent algorithm. The starting point is marked by a large blue dot labeled "starting 'guess' \( w^0 \)." From this starting point, the path progresses through a sequence of points labeled \( w^1, w^2, w^3, w^4, \) and \( w^5 \), each connected by arrows indicating the direction of descent. The path zigzags inward, converging toward the red dot labeled "Minimizer." Arrows on the path illustrate the direction of descent from each point to the next.

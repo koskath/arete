@@ -1,0 +1,9 @@
+# Slide 41 of Lecture 11 contains information about Key learning points: Session 4 Production
+planning and design
+Literature:
+Content:
+Key learning points from Session 4, Production planning and design, relate to content and literature that together highlight flow systems. In terms of content, the session covers the Ship Game – Push, Kanban and Milestones, operations management history, basic layout decisions, basic production systems (especially Lean management), and global production networks and their configurations, which connect to Lesson 13. The literature includes Christodoulou, J., Srai, S. and Gregory, M. (2019): “Synergy from configuration of global production networks: drivers, mechanisms, and outcomes”, in Production Planning & Control, Vol. 30, No. ?, pp. 179‑196; Mason‑Jones, R., Naylor, B. and Towill, D. (2000): “Lean, agile or leagile? Matching your supply chain to the marketplace”, International Journal of Production Research, Vol. 38, No. 17, pp. 4061‑4070; Lee, H. (2004): “The Triple‑A Supply Chain”, Harvard Business Review, Vol. 82, No. 10, pp. 102‑112; and Spear, S. and Bowen, H. K. (1999): “Decoding the DNA of the Toyota production system”, Harvard Business Review, Vol. 77, No. 5, pp. 97‑106.
+Main issues: Flow Systems
+Some broad questions that address the main issues of flow systems include “What are the classic ways of organizing production systems?”, “What is Lean management and how is production organized under Lean principles and pillars?”, “What are the differences – for example in the context – of Taylor, Ford, Lean and agile manufacturing?” and “Where do we produce different products and what drives this decision?”, which again connects to Lesson 13. These questions also encourage reflection on the changing context of manufacturing from a viewpoint of flow thinking and on the linkage of Lean management principles and pillars to SCM and flows.
+12.03.2025 Slide 41
+

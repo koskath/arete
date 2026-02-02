@@ -1,0 +1,3 @@
+# Slide 54 of Lecture 14 contains information about Alang Or Chittagong
+
+The image shows a dramatic scene from a South Asian ship-breaking yard—either Alang in India or Chittagong in Bangladesh—where a massive steel section of an old vessel collapses onto the beach in a cloud of dust and debris. Two small workers in protective clothing stand near the falling structure, highlighting both the dangerous working conditions and the extreme scale of the ships being dismantled. The photo, credited to National Geographic, illustrates the harsh, manual nature of ship recycling in these regions, where environmental risks and worker safety concerns are significant despite the economic importance of the industry.

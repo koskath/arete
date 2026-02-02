@@ -1,0 +1,4 @@
+# The image 2 in slide 11 of lecture 14 contains:
+The image shows an aircraft with a distinctive bulbous fuselage. The body is elongated with a large, rounded front. The exterior is primarily metallic with a silver sheen. The aircraft is marked with the text "AERO SPACELINES INC." in black, located on the side of the fuselage. Below this text, there are two horizontal stripes running along the length of the aircraft, one orange and the other yellow.
+
+The aircraft has a high-wing configuration with wings positioned near the top of the large fuselage. Three landing gear wheels are visible: two under the fuselage and a nose wheel in the front. At the tail, there is a vertical stabilizer with "ASI" written on it, in block lettering. The tail also has the number "N1038V" above the "ASI" text. There is a shadow beneath the aircraft on the ground, indicating overhead lighting. The nose of the aircraft has a dark-colored cockpit window, emphasizing its rounded shape.

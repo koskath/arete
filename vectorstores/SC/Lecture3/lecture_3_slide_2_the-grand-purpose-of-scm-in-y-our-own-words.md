@@ -1,0 +1,2 @@
+# Slide 2 of Lecture 3 contains information about The grand purpose of SCM, in (y)our own words
+To create awareness for a total unit by seeing a whole flow, a network, and a system as an object for improvement and management. It also involves seeing the whole thing as an integrated entity and, therefore, designing, coordinating, and adapting accordingly. Furthermore, it requires aligning the whole system to the needs of, in an ideal case, the ultimate customer, in order to provide value for the customer and the actors in the chain. Slide 2

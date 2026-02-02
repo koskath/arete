@@ -1,0 +1,4 @@
+# The image 2 in slide 4 of lecture 6 contains:
+The image contains a diagram with several elements. On the left side, there is a small circle with shading on its lower right, suggesting a three-dimensional effect. To the left of this circle, the text "Item 13976" is written vertically, aligning with the center of the circle. 
+
+An arrow starts from the circle and points diagonally to the right toward three rectangular boxes arranged vertically. Each box contains text, with the top box labeled "Supplier 1," the middle box labeled "Supplier 2," and the bottom box labeled "Supplier 3." Each rectangle has a label in its center, and they appear in a stacked formation with slight shading around the right and bottom edges, creating a shadow effect on the boxes. The arrow originates from the circle and points directly at the center of the top box, "Supplier 1."

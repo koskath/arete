@@ -1,0 +1,3 @@
+# Slide 8 of Lecture 8 contains information about the Learning Rate.
+
+The amount that weights are updated is called step size or "learning rate." Learning rate is a hyperparameter range between 0 and 1. Learning rate controls how quickly the model is adapted to the problem. Smaller learning rates require more training epochs, while larger learning rates require fewer training epochs. However, a large learning rate can converge too quickly to a suboptimal solution, and a small learning rate would stuck the model.

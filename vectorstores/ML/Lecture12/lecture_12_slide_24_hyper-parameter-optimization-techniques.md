@@ -1,0 +1,3 @@
+# Slide 24 of Lecture 12 contains information about the Hyper-parameter Optimization Techniques.
+
+Random search mirrors grid search in spirit but randomly samples a predefined number of configurations within the bounds and trains them until the budget is exhausted; with the same budget, it typically covers a larger portion of the search space than grid search, though it still wastes evaluations because it does not concentrate on promising regions. Traditional gradient-based optimization begins from a random point and iteratively moves opposite the gradient to locate a local optimum, converging quickly once the objective behaves smoothly; this approach can even tune hyperparameters such as the learning rate in neural networks. 

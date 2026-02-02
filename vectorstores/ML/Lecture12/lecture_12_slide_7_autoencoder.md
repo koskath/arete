@@ -1,0 +1,3 @@
+# Slide 7 of Lecture 12 contains information about the Autoencoder.
+
+The typical cost function includes a reconstruction loss that penalizes the model whenever its reconstructions deviate from the inputs. When the internal representation has a lower dimensionality than the original data, the architecture is undercomplete, preventing the network from simply copying the inputs to the codings and compelling it to capture the most important features while discarding noise. If the autoencoder relies solely on linear activations and optimizes mean squared error (MSE), it effectively performs Principal Component Analysis (PCA).

@@ -1,0 +1,2 @@
+# Slide 34 of Lecture 4 contains information about Three questions for you
+Questions from the article from Christodoulou et al are as follows: first, read in particular until including section 3 and identify drivers for GPN; second, what are dilemmas when designing GPN; and third, in the context of Covid-19 or Ukraine/Energy, how do you assess the balance of global vs. local pressures.

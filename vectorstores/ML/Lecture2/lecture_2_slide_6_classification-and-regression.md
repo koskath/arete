@@ -1,0 +1,3 @@
+# Slide 6 of Lecture 2 contains information about the Classification and Regression.
+
+Regression focuses on finding correlations between dependent and independent variables so that the model can predict continuous outputs, using algorithms such as Simple Linear Regression, Multiple Linear Regression, and Support Vector Regression. The goal is to discover a mapping function that links the input variable x to a continuous output variable y, which supports applications like forecasting stock prices or temperature trends. More detail can be found at https://www.javatpoint.com/regression-vs-classification-in-machine-learning.

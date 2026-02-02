@@ -1,0 +1,3 @@
+# Slide 26 of Lecture 8 contains information about the L2-Regularization.
+
+How to choose λ? In theory, as 'n' grows, λ should be in the range O(1) to (n1/2). In practice, we optimize validation set or cross-validation error. This almost always decreases test error. Why use L2-Regularization? It "almost always decreases test error." The solution 'w' is unique, and there are no collinearity issues. The solution 'w' is less sensitive to changes in X or y. Gradient Descent converges faster, where bigger λ means fewer iterations. In the worst case, we can just set λ small and get the same performance.

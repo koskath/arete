@@ -1,0 +1,2 @@
+# Slide 24 of Lecture 3 contains information about Three key issues
+ Disintegration Discussion of  local (position and time) behaviour selected key  the hockey stick, the stuffed channel, the trade loading and the speculation poker issues  i.e. fill the channels – push - without the demand; especially at the month end  Incentives?  Take it a bit further - the bullwhip  functional silos even within the companies  reluctance to changing behavior  what should be done to solve the problems  but why is it not done Session 3 -Integration and Collaboration Slide 24

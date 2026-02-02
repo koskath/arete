@@ -1,0 +1,2 @@
+# The image 3 in slide 6 of lecture 3 contains:
+The image contains text formatted in two lines. The first line reads "MONDAY, 10:42 AM" in black capital letters with a sans-serif font. The second line says "Manufacturing Facility 14, Exceso Corporation" in a blue sans-serif font. "Manufacturing Facility 14" and "Exceso Corporation" are part of the same line, separated by a comma. The second line appears slightly larger than the first line. The background is plain white.

@@ -1,0 +1,4 @@
+# Slide 52 of Lecture 14 contains information about Alang MMO SCM - Final Wrap Up
+
+The images depict Alang, India — one of the world’s largest and most controversial ship-breaking yards. The photos show massive vessels run aground on the tidal mudflats, where they are manually dismantled by workers using basic tools. One image highlights long lines of laborers pulling cables, while another shows the coastline crowded with half-scrapped ships. The satellite view at the bottom reveals the scale of the operation, with dozens of vessels lined up along the shore. These visuals illustrate the environmental and social challenges associated with the end-of-life stage of global shipping: hazardous waste, pollution, dangerous working conditions, and the concentration of low-cost ship recycling in developing countries.
+

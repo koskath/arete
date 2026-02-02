@@ -1,0 +1,3 @@
+# Slide 28 of Lecture 6 contains information about the R².
+
+The R^2 coefficient of determination, which ranges from -infinity to 1, answers the question “How much of the total variation in the target is explained by the regression line?” by comparing the model’s sum of squared errors to the total variance: a very small sum of squared errors means the regression has captured nearly all target variance, whereas a large value means it explains little, and if a model overfits it may appear to explain 100% of the variance, so adjusted R^2, which is always lower and penalizes extra predictors, is often used to reflect only the real improvement.

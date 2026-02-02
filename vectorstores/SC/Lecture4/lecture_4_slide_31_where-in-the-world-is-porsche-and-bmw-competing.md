@@ -1,0 +1,3 @@
+# Slide 31 of Lecture 4 contains information about Where in the world is Porsche and BMW competing?
+
+The map displays the global competitive landscape between Porsche and BMW by showing the geographic distribution of their brand presence across different continents. BMW and Porsche logos are positioned throughout various regions worldwide, with notable concentrations in Europe, North America, and Asia. The continents are color-coded, with Europe appearing in blue, Africa in pink, the Americas in green, Asia in tan, and Oceania in gray. The visualization demonstrates where these two German automotive manufacturers compete for market presence on a global scale.

@@ -1,0 +1,3 @@
+# Slide 8 of Lecture 11 contains information about Exam structure
+What will be asked?
+The exam will contain a set of three to four main questions with sub‑questions. One part will be an open essay question with guiding sub‑questions that require understanding and argumentation. In addition, there will be pre‑structured questions that either require active knowledge to answer or require you to make a decision and provide a for/against justification. There will also be multiple‑choice questions that test the scope of your passive knowledge. All questions need to be answered, and all questions are of equal importance. 12.03.2025 Slide 8

@@ -1,0 +1,2 @@
+# Slide 19 of Lecture 9 contains information about Unit Loads
+ A unit load combines individual items or items in boxes etc. into a single "unit" that can be moved easily with material handling equipment. It fits tightly into store racks, trucks, intermodal containers etc. Most consumer and industrial products move through the supply chain in unitized or unit load form for at least part of their distribution cycle. Unit loads make handling, storage, and distribution more efficient. They help reduce handling costs and damage by reducing handling of individual items.

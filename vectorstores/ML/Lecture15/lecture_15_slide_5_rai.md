@@ -1,0 +1,5 @@
+# Slide 5 of Lecture 15 contains information about the RAI.
+
+Responsible AI is framed as a set of principles that guide the design, development, deployment, and use of AI systems so they build trust in real-world solutions, with the explicit aim of embedding ethical considerations into every application. It rests on key pillars of trust, particularly explainability and interpretability, which together ensure that prediction accuracy, traceability, and decision understanding remain visible to both builders and users.
+
+Fairness is addressed through diverse and representative data, bias-resistant algorithms or models, and the establishment of ethical AI review boards. Robustness requires systems that handle exceptional conditions such as abnormal inputs and malicious attacks, while transparency calls for clear communication about how a service functions, how its performance can be evaluated, and what strengths or limitations it possesses. Privacy is protected by adhering to relevant regulatory frameworks like GDPR so that responsible AI practices extend all the way to data governance.

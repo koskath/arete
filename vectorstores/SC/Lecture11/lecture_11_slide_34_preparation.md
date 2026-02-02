@@ -1,0 +1,3 @@
+# Slide 34 of Lecture 11 contains information about Preparation
+Important things to keep in mind while preparing & answering
+There are several important things to keep in mind while preparing and answering. You should understand the learning objectives of this course and of each teaching session. You should train your abilities to identify global supply chain management problems as discussed in class and to relate these problems to the course content in order to present solutions. Finally, think about how you can provide justifiable solutions to the exam questions, drawing on what has been covered in this course. 12.03.2025 Slide 34

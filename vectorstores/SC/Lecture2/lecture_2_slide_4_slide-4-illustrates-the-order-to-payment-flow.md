@@ -1,0 +1,6 @@
+# Slide 4 of Lecture 2 contains information about Slide 4 illustrates the order-to-payment flow.
+This diagram illustrates the Order-to-Payment Flow, showing how different business processes connect from suppliers on the left to customers on the right.
+The top red flow represents the Order Flow, beginning with purchasing and forecasting activities, then moving toward the customer side where orders are placed. The green boxes beneath this show Sourcing activities on the supplier side, which feed into the order process.
+In the middle section, gray boxes represent Procurement/Production activities that happen between suppliers and customers. On the customer side, orange boxes indicate the Fulfillment Flow, showing how orders are executed and delivered.
+The bottom blue flow shows the Payment Flow, which moves in the opposite direction from right to left, starting from customers and flowing back toward suppliers. This represents money moving backward through the supply chain as payment for goods and services.
+The large red S-curve arrows emphasize the cyclical, interconnected nature of these flows, showing how they loop and connect between the supplier and customer sides. The diagram demonstrates that the order-to-payment cycle involves multiple functional activities across different departments that must work together as an integrated process.

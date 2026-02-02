@@ -1,0 +1,3 @@
+# Slide 49 of Lecture 12 contains information about e.g. Smart Labels for Applications in Retail and Logistics
+Smart labels for open-loop applications in retail and logistics have been on the market since the late 1990s. Today, reading ranges reach up to 12 meters, depending heavily on transmission frequencies, and costs per tag are less than a few euro cents. Their functions include the identification of products, packaging and transportation means such as skeleton boxes and pallets, the storage of additional data (ID plus 512 bit), bulk reading of up to 500 tags in a few seconds and the possibility of locating items with special infrastructure.
+12 Digitization and Digitalization 14.03.2025 Slide 49

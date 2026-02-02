@@ -1,0 +1,2 @@
+# Slide 5 of Lecture 3 contains information about Questions Set 1
+Read it fast if you have not done so before. Then consider the following question: What are the key actors in the single Set 1 episodes, including the company name and type of the company, the role within the company (functions), and the role within the supply chain? In addition, reflect on what the key issues discussed in the single episodes are. Slide 5

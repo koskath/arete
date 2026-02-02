@@ -1,0 +1,3 @@
+# Slide 4 of Lecture 8 contains information about „OLD“ Brick-and-Mortar…
+
+The slide contains brand the logos of: Marks & Spencer, RadioShack, Woolworth, Kmart, The Body Shop, Sears, Toys “R” Us, Hertie, Fona, Schlecker.

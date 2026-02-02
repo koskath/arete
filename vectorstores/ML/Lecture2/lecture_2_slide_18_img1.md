@@ -1,0 +1,3 @@
+# Here is what the image 1 in slide 18 of lecture 2 contains:
+
+The image consists of two vertical tables alongside each other, connected by a yellow curved arrow pointing from the left table to the right table. The left table has the header "island" in lowercase and contains five rows with the repeated entry "Torgersen." The right table has the header "island" and several numeric entries: four instances of the number "2" corresponding to the left table’s entries, followed by an ellipsis ("..."), and two entries of the number "0" at the bottom. Below the tables, there is the text "sklearn.preprocessing.LabelEncoder()" in red.

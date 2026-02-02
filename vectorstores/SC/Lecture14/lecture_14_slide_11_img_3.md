@@ -1,0 +1,6 @@
+# The image 3 in slide 11 of lecture 14 contains:
+The image depicts a large, uniquely shaped aircraft known as the Airbus Skylink. The aircraft is positioned on a grassy surface, which occupies the lower portion of the image, slightly out of focus. The main body of the airplane is bulbous and rounded, particularly noticeable at the nose, which is darker in color compared to the rest of the fuselage. The forward section of the fuselage has "AIRBUS SKYLINK" written in large black letters across it. 
+
+The tail section of the aircraft is numbered "4" in black. The fuselage beneath the nose is open, revealing a large cylindrical object inside, aligned with the aircraft and extending beyond the nose structure. This object is mostly white with a reddish-brown circular end and appears to be secured with metal framing and support structures, possibly for transport.
+
+Beneath the aircraft, there are yellow vehicles, possibly for ground handling, visible in proximity to the landing gear and near the cylindrical object. The sky is clear with a few scattered clouds, occupying the upper part of the image. The aircraft is viewed from a low angle, primarily showing its right side, which emphasizes the height and size of the aircraft against the open sky.

@@ -1,0 +1,3 @@
+# Slide 39 of Lecture 4 contains information about 4 – “Outreachers”
+Sourcing Prod/Ass Distrib.
+These “Outreachers” involve global brands with huge R&D investments paid back on a global scale only and operate in international markets for sophisticated technologies and parts. E.g.: Aerospace, Supercomputing, Semiconductors and integrated textile-apparel chains (Zara, etc..) are typical sectors, and such configurations are sometimes an evolution of the “Porsches”.

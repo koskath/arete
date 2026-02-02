@@ -1,0 +1,3 @@
+# Slide 38 of Lecture 7 contains information about Usage of Incoterms®2010
+
+In 2014, the ICC conducted a survey among Incoterms® 2010 users, with 569 respondents from 35 countries, with a concentration of replies coming from France, Belgium, Germany and Austria. The survey analysed which Incoterms® 2010 were preferred by sellers and which were preferred by buyers, revealing distinct preferences on both sides. Further details of the results can be found at `http://www.lemoci.com/actualites/reglementation/incoterms-2010-fca-et-dap-sont-les-favoris-des-utilisateurs-selon-une-enquete-de-licc/`. 38

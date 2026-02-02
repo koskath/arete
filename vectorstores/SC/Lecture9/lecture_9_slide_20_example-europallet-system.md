@@ -1,0 +1,2 @@
+# Slide 20 of Lecture 9 contains information about Example Europallet System
+It is a building block system: all packages are build as modules wholly divisible by 400 x 600 mm and placed on a standardized pallet with 800 x 1,200 mm Storage systems are designed accordingly not to waste storage space Finally it fits then well into European trucks, waggons, containers etc. but not in ISO-1 maritime containers (TEU/FEU)!

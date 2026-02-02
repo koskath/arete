@@ -1,0 +1,2 @@
+# Slide 25 of Lecture 3 contains information about Channel stuffing or “Customer orders vs. consumer sales”
+ Lots of sales booked near the end of a quarter, then sales drop off at the start of the next quarter  E.g.,  A large brewer offered a vacation to the salesperson in each region who sold the most beer to stores over a 3 month period  One winner was able to convince a few stores to free up backroom space and fill it entirely with beer  Or see the case: what is Alice Dias doing? Session 3 -Integration and Collaboration Slide 25

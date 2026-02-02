@@ -1,0 +1,3 @@
+# Slide 11 of Lecture 13 contains information about the CNN Components.
+
+Feature maps are the matrices produced by applying convolutional filters to the input, revealing patterns such as horizontal or vertical lines; using multiple filters yields multiple feature maps, which then serve as the inputs to deeper convolutional layers in a CNN. Pooling layers, typically max pooling, summarize these maps to reduce their spatial size while retaining salient information—for example, applying 32 filters to a 32×32 RGB image generates 32 distinct feature maps because each filter extracts a different aspect of the image.

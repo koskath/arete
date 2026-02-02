@@ -1,0 +1,3 @@
+# Slide 32 of Lecture 13 contains information about the Adversarial training.
+
+Adversarial training exposes models to both clean and adversarial examples so they learn to classify each correctly, improving robustness while maintaining performance on the original data. Virtual Adversarial Training (VAT) extends this idea to semi-supervised settings by approximating perturbations that maximize the model’s loss yet promote local distributional smoothness on every input point. Both traditional adversarial training and VAT therefore act as regularization strategies and practical defenses against malicious inputs.

@@ -1,0 +1,3 @@
+# Slide 9 of Lecture 12 contains information about Physically fixed – e.g. Assembly line: contains the plan in a fixed structure
+In a physically fixed system such as an assembly line, the plan is contained in a fixed structure. Control is achieved by tight coupling and tight chaining, in other words by “programming the hardware”. As a result, control is largely substituted by detailed beforehand planning: control information is embedded in the structure or “hardware”, leaving hardly any scope for variation in the processes. This leads to complete fixedness in terms of quantities and timing, raising the question of whether such rigid structures are still appropriate today. 
+

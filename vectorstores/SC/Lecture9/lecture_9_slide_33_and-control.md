@@ -1,0 +1,6 @@
+# Slide 33 of Lecture 9 contains information about …and Control
+
+Source: https://emergeapp.net/inventory-reports/10-inventory-metrics-for-smbs/
+
+
+This infographic outlines ten essential performance indicators that serve as the foundation for the "Control" aspect of supply chain management, specifically regarding inventory oversight. The visual centers on a warehouse employee performing a stock check on a shelving unit supported by an autonomous mobile robot, symbolizing the intersection of human auditing and automated material handling. The metrics are organized into two columns: the left side focuses on financial health and sales velocity, listing Inventory Turnover, Gross Margin Percent, Cost of Carrying, and Average Days to Sell Inventory, alongside the service-oriented Customer Order Fill Rate. The right side lists complementary operational metrics including Return on Investment, Item Fill Rate, Cycle Time, Average Inventory Level, and finally Inventory Accuracy, which is crucial for maintaining the integrity of the entire system. Collectively, these data points provide a comprehensive dashboard for warehouse managers to monitor efficiency, profitability, and service reliability.

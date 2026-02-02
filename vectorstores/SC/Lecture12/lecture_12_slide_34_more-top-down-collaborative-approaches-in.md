@@ -1,0 +1,3 @@
+# Slide 34 of Lecture 12 contains information about More top-down: Collaborative approaches in the extended companies context –
+From the limited world of the single company, collaborative approaches move towards the exchange of planning data “up” along the supply chain. Instead of a sequence of separate forecasts, there is one common forecast that is communicated along the chain and improved by the experience of all the players in the chain. In doing so, the restrictions of, in the ideal case, all players are taken into account. On an aggregated level, this typically results in “views” of the single actor on its part of the forecast.
+

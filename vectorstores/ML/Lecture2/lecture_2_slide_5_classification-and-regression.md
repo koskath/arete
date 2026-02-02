@@ -1,0 +1,3 @@
+# Slide 5 of Lecture 2 contains information about the Classification and Regression.
+
+Classification is the process of finding a function that divides a dataset into classes based on different parameters, often using algorithms such as K-Nearest Neighbours, Support Vector Machines, Decision Tree Classification, and Random Forest Classification. The algorithm ultimately seeks a mapping function that connects input x to a discrete output y, enabling applications like image labeling and email spam detection. Additional reading is available at https://www.javatpoint.com/regression-vs-classification-in-machine-learning.

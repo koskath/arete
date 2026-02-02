@@ -1,0 +1,11 @@
+# Slide 7 of Lecture 8 contains information about Potential Pandemic Effect on Online and Offline Retailing
+
+# The diagram in slide 7 of lecture 8 illustrates two parallel but opposing feedback loops triggered by the COVID-19 pandemic external shock, which includes factors such as more working at home, health concerns, and temporary closure of stores.
+
+The left side depicts the online retail reinforcing cycle, shown with orange arrows flowing clockwise. The external shock initiates more shopping online, which leads to improved profitability and cash for online retailers. This improved financial position results in higher market capitalization, enabling more investments in online concepts. These investments translate into improved capacity, quality, and availability of webstores, which further encourages more shopping online, completing the reinforcing loop.
+
+The right side presents the offline retail declining cycle, illustrated with blue arrows flowing clockwise. The same external shock triggers less shopping offline, causing weakened revenues and performance of physical stores. This deterioration leads to lower market capitalization, resulting in less investments in offline stores. Reduced investment causes long-term deterioration of store attractiveness, which perpetuates less shopping offline, completing the negative reinforcing loop.
+
+At the bottom of the diagram, a horizontal bidirectional arrow labeled "Sales flow" connects two outcome boxes. The left box states "Increasing returns for online stores" while the right box indicates "Decreasing returns for physical stores." This connection illustrates the competitive dynamic where sales shifting from physical to online channels creates a zero-sum redistribution of market share.
+
+The overall structure demonstrates how an external shock can create divergent trajectories for online and offline retail channels, with self-reinforcing mechanisms that amplify the initial effects over time, leading to a widening performance gap between the two retail formats.

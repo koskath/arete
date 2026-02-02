@@ -1,0 +1,3 @@
+# Slide 26 of Lecture 13 contains information about the Adversarial Examples.
+
+Models across families—deep networks, clustering methods, Naive Bayes, decision trees, multilayer perceptrons, and SVMs—lack resilience to adversarial attacks. When malicious actors inject manipulated data with deceptive labels yet similar features into the training set, the resulting poisoning can degrade performance or cause outright failure, particularly if attackers know both the data distribution and the learning algorithm.

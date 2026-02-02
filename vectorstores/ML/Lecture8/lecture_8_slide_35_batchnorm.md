@@ -1,0 +1,3 @@
+# Slide 35 of Lecture 8 contains information about the BatchNorm.
+
+The vanishing gradients problem can be alleviated with better weight initialization, better optimizers, or Batch Normalization[1]. BatchNorm is one of the most successful architectural innovations in deep learning[2]. BatchNorm aims to stabilize the distribution, over a minibatch, of inputs to a given network layer during training. How BatchNorm works: the operation lets the model learn the optimal scale and mean of each of the layer's inputs. First, we add an operation in the model just before or after the activation function of each hidden layer. This operation simply zero-centers and normalizes each input. Next, it scales and shifts the result using scaling and shifting vectors per layer.

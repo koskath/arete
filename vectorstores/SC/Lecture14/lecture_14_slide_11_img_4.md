@@ -1,0 +1,6 @@
+# The image 4 in slide 11 of lecture 14 contains:
+The image shows a large aircraft in mid-flight against a cloudy gray sky background. The aircraft has an unusually large and bulbous fuselage that is white in color. On the side of the fuselage, the word "DREAMLIFTER" is prominently displayed in large blue capital letters, with a stylized arc symbol resembling a half-circle or ring above the text.
+
+The front of the aircraft features a distinct cockpit area with windows, and several small circular windows are visible along the front side of the fuselage. The aircraft is supported by several sets of landing gear, all deployed; each set comprises multiple wheels. Beneath the wings, which are situated near the midsection of the aircraft and extend outwards, there are four jet engines, two under each wing, each encased in a cylindrical housing.
+
+The aircraft's tail fin, or vertical stabilizer, is dark blue and located at the rear, extending upwards above the rest of the structure. The wings are attached to the upper-middle section of the fuselage and taper outward towards the wing tips. There are no visible logos or additional markings on the tail or engines.

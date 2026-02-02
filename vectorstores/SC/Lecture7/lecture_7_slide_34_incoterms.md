@@ -1,0 +1,4 @@
+# Slide 34 of Lecture 7 contains information about Incoterms®
+
+Trade Terms
+Trade terms can be industry‑specific contract terms or regional usages that are interpreted differently from place to place or from country to country. International commercial terms, or Incoterms®, provide a common and widely accepted set of standardised trade terms. First introduced in 1936 by the International Chamber of Commerce (ICC) in Paris, Incoterms® have been revised several times, with the latest revision being Incoterms® 2020. They deal with the obligations of buyer and seller arising from a sales contract and with the apportionment of the costs and risks associated with the movement of goods. Incoterms® can be divided into four groups: Group E (Ex‑Works), Group F (movement of goods arranged by the buyer), Group C (movement of goods arranged by the seller) and Group D (goods delivered). 34

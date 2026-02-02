@@ -1,0 +1,3 @@
+# Slide 47 of Lecture 15 contains information about the Recap(2/3).
+
+Ethical issues continue to be central to AI debates, which is why AI alignment—the process of encoding human values and goals into large language models so they act helpfully, safely, and reliably—receives so much attention. Alignment lets enterprises adapt models to their own policies by fine-tuning with instruction-tuning phases followed by critique phases. Its importance reflects the growing impact and risk profile of deep learning: misalignment is a major source of danger because systems may optimize proxy rewards (reward hacking) or pursue goals that diverge from their training objectives (goal misgeneralization).*** End Patch}$

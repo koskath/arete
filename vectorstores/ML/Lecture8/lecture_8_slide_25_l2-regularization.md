@@ -1,0 +1,3 @@
+# Slide 25 of Lecture 8 contains information about the L2-Regularization.
+
+L2-regularization involves a trade-off: it increases training error but decreases approximation error. It forces the algorithm to not only fit the data but also keep the model's weights small. The regularization term should only be added to the cost function during training. The hyperparameter α controls the regularization of the model. If α = 0, it is just Linear Regression, and α typically ranges from 0.01 to 10. It is important to scale data before performing L2/Ridge Regression using StandardScaler. L2-regularization drives weights closer to the origin by adding a regularization term to the objective function, and it tends to eliminate weights of the least important features.

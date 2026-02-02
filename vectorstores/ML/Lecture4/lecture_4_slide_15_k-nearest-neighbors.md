@@ -1,0 +1,12 @@
+# Slide 15 of Lecture 4 contains information about the K-nearest neighbors.
+
+# The figure in slide 15 of lecture 4 provides a step-by-step conceptual walkthrough of how the k-nearest neighbors (KNN).
+KNN algorithm performs classification within a 2-dimensional feature space. The red stars represent data points belonging to Class A, and the green triangles represent data points belonging to Class B. Each point has coordinates on the X- and Y-axes, which could represent any pair of numerical features used in a machine-learning task.
+
+In the first panel, a new unlabeled data point—marked with a question mark—is introduced. The goal of KNN is to determine its class by examining how it relates to the existing labeled data. The dashed circle represents a search radius for the nearest neighbors. When k = 1, the algorithm looks for the single closest point in the dataset. Because KNN relies entirely on distances in feature space, this initial step highlights its nature as a lazy learning method: rather than building an explicit model, it waits until a query appears and then computes distances on the fly.
+
+The next panels illustrate the procedural steps. First, the algorithm considers the initial data distribution, showing that no assumptions are made about data shape or class boundaries. Next, the “Calculate Distance” panel indicates that KNN computes the distance from the query point to every other point—typically using metrics such as Euclidean, Manhattan, or Minkowski distance. These distances determine how similar the new point is to previously seen examples.
+
+Finally, the bottom-right diagram shows the neighbor selection and voting process. Here, the value of k has been changed to 3, meaning the algorithm now identifies the three closest labeled points. The dashed circle expands to include exactly three neighbors. KNN then performs a majority vote among these neighbors: whichever class is most frequent becomes the predicted class for the new sample. This step demonstrates an important concept in machine learning: how model behavior changes with hyperparameters. A small k makes the classifier sensitive to local noise, while a larger k produces smoother, more general decision boundaries.
+
+Overall, the figure visualizes KNN’s fundamental idea: classification through proximity. It shows how machine learning can rely on instance-based reasoning, where similarity in feature space determines predicted labels without learning explicit decision functions.

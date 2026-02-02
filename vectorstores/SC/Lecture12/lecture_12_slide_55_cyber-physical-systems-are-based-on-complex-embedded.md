@@ -1,0 +1,4 @@
+# Slide 55 of Lecture 12 contains information about Cyber-Physical Systems are based on complex embedded microelectronics and deliver different functions – Towards a Definition of the term “Cyber-Physical System” (CPS)
+End of life and birth mark the boundaries of the life cycle of a “Cyber-Physical System”. Cyber-Physical Systems are, by definition, (among themselves) interconnected and networked embedded systems that monitor, govern and control the physical world (“thing”) via sensors and integrate the obtained data into the virtual (informational) world. Their functions, which make them “smart”, include identification, sensing environmental parameters, localization, data processing and control, as well as communication and networking.
+Prockl and Pflaum 2012
+12 Digitization and Digitalization 14.03.2025 Slide 55

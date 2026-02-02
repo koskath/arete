@@ -1,0 +1,3 @@
+# Slide 16 of Lecture 6 contains information about Ethical Sourcing and Reporting
+
+Ethical sourcing and reporting involve very complex subjects of sustainability that span a wide range of issues. These include green products and the reduction of carbon emissions, as well as the environmental impact of transport and overall environmental performance. They also cover health and safety, diversity and equality, and the standards at work that apply not only within the buying organisation but also to suppliers. Moreover, ethical sourcing reflects the role of the business as an employer, a customer and a corporate citizen, and thus shapes how it interacts with workers, suppliers, communities and the environment. 16

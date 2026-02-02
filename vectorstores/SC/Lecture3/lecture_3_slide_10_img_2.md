@@ -1,0 +1,2 @@
+# The image 2 in slide 10 of lecture 3 contains:
+The image contains text that is divided into two lines. The first line reads "THURSDAY, 6:52 PM" in black, uppercase lettering. It is aligned to the left. The second line reads "Sales Conference Room, Exceso Headquarters" in a mix of black and blue capitalized and lowercase letters. The phrase "Sales Conference Room" is in blue, while "Exceso Headquarters" follows, also in blue. The text is left-aligned, and there are no additional elements, structures, shapes, or annotations visible in the image.

@@ -1,0 +1,3 @@
+# Slide 47 of Lecture 12 contains information about Difference between Barcode & Smart Object Technologies - RfID
+In smart object technologies such as RFID, the ID-number is written into an electronic tag, and a reader uses a magnetic field or electromagnetic waves in order to read the stored information. Complex communication protocols are used for communication between reader and tags. In principle, depending on the type of tag, no direct visibility is needed (although there can be problems with metal barriers), and no exact alignment of reader and tag is necessary; several hundred tags can be read at the same time, although there may be problems with fluids and metal objects inside the packaging.
+12 Digitization and Digitalization 14.03.2025 Slide 47

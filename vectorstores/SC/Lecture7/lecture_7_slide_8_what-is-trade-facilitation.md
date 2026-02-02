@@ -1,0 +1,3 @@
+# Slide 8 of Lecture 7 contains information about What is Trade Facilitation?
+
+According to Granger (2011), the topic of trade facilitation comprises four interdependent themes. First, it involves the simplification and harmonization of applicable rules and procedures. Second, it concerns the modernization of trade systems and, in particular, the sharing and lodging of information between business and government stakeholders. Third, it covers the administration and management of trade and customs procedures. Fourth, it encompasses the institutional mechanisms and tools needed to safeguard effective implementation of trade facilitation principles and to ensure an ongoing commitment to reform. Source: Granger (2011). 8

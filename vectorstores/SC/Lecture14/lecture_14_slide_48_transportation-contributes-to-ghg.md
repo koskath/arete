@@ -1,0 +1,4 @@
+# Slide 48 of Lecture 14 contains information about Transportation contributes to GHG
+
+This slide highlights the significant role transportation plays in global greenhouse gas (GHG) emissions. The pie chart shows that while non-transport sectors account for 76% of emissions, the transport sector alone contributes a substantial **24%** within the EEA-32. The breakdown on the right reveals that **road transport dominates**, responsible for **17%** of total emissions, while international maritime transport and aviation each contribute **3%**, and other transport modes add the remaining **1%**.
+In the context of the lecture, this visualization reinforces the message that logistics—despite enabling global trade—has become a major **environmental burden**, especially through road freight. The slide underlines why sustainability, modal shifts, decarbonization strategies, and regulatory pressure are now central themes in modern supply chain management.

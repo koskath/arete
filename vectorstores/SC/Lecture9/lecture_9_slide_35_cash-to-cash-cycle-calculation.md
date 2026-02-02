@@ -1,0 +1,4 @@
+# Slide 35 of Lecture 9 contains information about Cash-to-Cash Cycle Calculation
+
+Days sales outstanding (DSO) = ø A/R / (revenue / days in the year (365)): The number of days between the sale of a product and the receipt of a cash payment (A/R period); Days inventory held (DIH) = ø inventory / (costs of goods sold / days in the year (365)): The speed with which the stock value of raw materials, work in progress and finished goods of a company are converted into product sales. In the case of a manufacturing company, the days inventory held also includes the production time (inventory period); Days payables outstanding (DPO) = ø A/P / (costs of goods sold / days in the year (365)): The number of days between the purchase of an input from a vendor and cash payment to that supplier (A/P period).
+Source: Hofmann and Kotzab(2010)

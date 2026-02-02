@@ -1,0 +1,3 @@
+# Slide 6 of Lecture 14 contains information about the Approach of FL.
+
+To preserve privacy, the federated learning approach has remote devices exchange model gradients rather than raw data with a central server. Each device trains on its local dataset, uploads the resulting model update, and receives an aggregated global model after the server combines contributions from all participants. This loop continues.

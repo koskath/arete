@@ -1,0 +1,7 @@
+# Slide 8 of Lecture 2 contains information about The challenge of the Scope?
+# The diagram in slide 8 of lecture 2 presents three progressively complex views of supply chain scope, moving from a simple partnership to an ultimate supply chain network.
+At the top, the Partnership level shows the most basic relationship between a Seller and Buyer, connected by a bidirectional arrow.
+The Basic Supply Chain expands this to three entities: a Supplier, a Focal Firm in the middle, and a Customer, all connected with bidirectional arrows showing direct relationships.
+The Extended Supply Chain adds additional tiers by including a Supplier's Supplier on the left (shown with diamond symbols and ellipsis indicating multiple possible tiers) and a Customer's Customer on the right (also with diamond symbols and ellipsis). The Focal Firm remains in the center with its direct Supplier and Customer.
+The Ultimate Supply Chain at the bottom shows the most comprehensive view, expanding from an Initial Supplier on the far left through to an Ultimate Customer on the far right. In addition to the extended linear chain, this level introduces supporting entities connected to the Focal Firm: a Third Party Logistics Supplier above, a Financial Provider below on the supplier side, and a Market Research Firm below on the customer side. These supporting entities are connected with arrows showing their relationships to the Focal Firm and other chain members.
+

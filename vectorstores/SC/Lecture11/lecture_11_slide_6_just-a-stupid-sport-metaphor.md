@@ -1,0 +1,5 @@
+# Slide 6 of Lecture 11 contains information about Just a stupid sport metaphor?
+6
+12.03.2025
+
+this slide employs a sports analogy to communicate that success requires a multifaceted skillset rather than reliance on a single strength. The image of athletes embracing frames the concept of the "Complete Player" as a metaphor for the ideal student candidate, explicitly stating that there is "not just one main factor" that is most important. Instead, the text argues that exam performance will depend on a "mixture" of various attributes combining together, much like the diverse skills needed on a playing field. The prominent inclusion of the word "Questioning" at the bottom suggests that critical thinking and the ability to interrogate the course material—rather than simple rote memorization—are fundamental characteristics that will be assessed. This metaphor serves to instruct students that a holistic approach, integrating multiple competencies from the beginning to the end of their preparation, is necessary to achieve the "complete" performance required by the exam.

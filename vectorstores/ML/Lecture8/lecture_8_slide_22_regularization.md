@@ -1,0 +1,3 @@
+# Slide 22 of Lecture 8 contains information about the Regularization.
+
+The "true" mapping from x to y is complex. We might need a high-degree polynomial or might need to combine many features, and we don't know which ones are "relevant." Complex models can overfit. So what should we do? We reduce overfitting by regularizing the model, which means constraining it. Overfitting means you fit a too complex model to training data where the curve is close to most observations, but actual prediction is very bad. Regularization adds a penalty on the complexity of the model. L2-regularization is popular for regression, and it helps address overfitting and underfitting issues.

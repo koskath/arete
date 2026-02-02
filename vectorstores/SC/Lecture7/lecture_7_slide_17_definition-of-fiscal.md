@@ -1,0 +1,7 @@
+# Slide 17 of Lecture 7 contains information about Definition of Fiscal and Customs Territory
+
+The EU Customs Territory consists of: Austria; Belgium; Bulgaria; Croatia; Cyprus; Czech Rep.; Denmark (except the Faeroe Islands and Greenland); Estonia; Finland; France (including Monaco); Germany (except Büsingen and the Isle of Helgoland); Greece; Hungary; The Republic of Ireland; Italy (including San Marino except the communes of Livigno and Campione d’Italia and part of the Lake Lugano); Latvia; Lithuania; Luxembourg; Malta; Netherlands; Poland; Portugal (including the Azores and Madeira); Romania; Slovak Rep.; Slovenia; Spain (including the Balearic Islands but excluding Ceuta and Melilla); Sweden; (de facto Northern Ireland, Akrotiri and Dhekelia until further notice…). There are some "special territories" which are within the EU Customs Territory but outside the EU Fiscal (VAT) Territory: The Åland Islands; The Canary Islands; The Overseas Departments of France (Guadeloupe, Martinique, Reunion and French Guyana) and Mount Athos. Further, there are Customs Unions between Italy and San Marino, France, Spain and Andorra and a Free Trade Agreement with Turkey. The Vatican City is not part of the EU and Gibraltar, or other overseas territories of EU member states not explicitly mentioned above are not regarded as part of the EU for VAT or customs purposes – the same holds true for the Turkish part of Cyprus.
+
+For more, see e.g.: `http://en.wikipedia.org/wiki Special_Member_State_territories_and_the_European_Union`
+
+

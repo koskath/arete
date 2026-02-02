@@ -1,0 +1,3 @@
+# Slide 40 of Lecture 15 contains information about the Issues with ML models.
+
+Common issues with machine learning models include class imbalance and concept drift. When classes are represented disproportionately, classifiers tend to bias toward the majority and degrade performance on minority categories. Concept drift captures the challenge of changing relationships in data; although many tasks such as digit classification, text categorization, or speech recognition assume that the learned mapping from input x to output y (where y = f(x)) remains stable over time, domains like malware detection and classification often violate this assumption, making historical patterns unreliable for future predictions.

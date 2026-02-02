@@ -1,0 +1,4 @@
+# Slide 21 of Lecture 8 contains information about the Context.
+
+
+The slide provides context for the introduction of topics like regularization by defining a High-dimensional problem as a scenario where the number of variables d is much larger than the number of observations n. Examples of fields that frequently encounter such problems include genetics and neuroscience. In these high-dimensional settings, the Usual least square estimator does not work, indicating that standard statistical methods are inadequate and necessitate alternative approaches, such as the penalized regression or regularization techniques that are likely to be the subject of the subsequent material.

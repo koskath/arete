@@ -1,0 +1,3 @@
+# Slide 28 of Lecture 15 contains information about the Why AI alignment is important?.
+
+The importance of AI alignment is framed as a three-step argument in which each point builds on the previous one. First, deep learning applications exert an increasingly large impact on society and therefore introduce significant risks. Second, misalignment remains a primary source of those risks because systems that do not share human objectives can behave unpredictably. Third, alignment research and practice directly address these threats by reducing the likelihood that misaligned systems produce harmful outcomes.

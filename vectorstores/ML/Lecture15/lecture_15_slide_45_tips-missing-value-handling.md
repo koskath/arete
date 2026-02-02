@@ -1,0 +1,3 @@
+# Slide 45 of Lecture 15 contains information about the Tips: Missing Value Handling.
+
+Missing values pose particular problems for product catalogs in online retail settings because manual updates do not scale and many machine learning methods expect matrix-formatted numerical data even though the source information often appears as text or other structures. A practical solution is to build a single pipeline that couples feature extraction with imputation algorithms and includes hyperparameter optimization so the system can automatically select models and tune parameters while handling incomplete inputs.*** End Patch}$

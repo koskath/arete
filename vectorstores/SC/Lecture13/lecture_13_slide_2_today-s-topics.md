@@ -1,0 +1,3 @@
+# Slide 2 of Lecture 13 contains information about Today’s Topics
+Supply chain strategies and configurations for globalisation are at the centre of today’s topics, and they will be discussed in connection with SCM and the strategy hierarchy. In addition, we will explore key supply chain design considerations and examine the main supply chain strategic levers and decision-making components. Finally, all of these issues are brought together under the theme of Strategy & Configuration Slide 2.
+ 

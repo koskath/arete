@@ -1,0 +1,3 @@
+# Slide 3 of Lecture 6 contains information about What is Sourcing?
+
+Sourcing refers to practices aimed at finding, evaluating and engaging suppliers for acquiring goods and services. A sourcing strategy is then essentially a business case that helps an organization decide on the best way to procure resources. As a minimum, clearly defined requirements should include the level of spend being considered and the associated risk, as well as whether the procurement is a one-off or a recurring activity. They should also consider market maturity, the technology lifecycle of the market and the number of sources and potential suppliers. Finally, contract duration and the potential for performance improvement and cost reduction are important elements of a sourcing strategy. 3

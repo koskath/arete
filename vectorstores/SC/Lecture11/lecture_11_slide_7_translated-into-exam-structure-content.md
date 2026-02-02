@@ -1,0 +1,2 @@
+# Slide 7 of Lecture 11 contains information about Translated into exam structure & content
+The philosophy behind the exam can be translated into its structure and content. Part of the exam, roughly 25–50%, focuses on pure thinking and application in the form of an open essay, where you are expected to develop and apply concepts in context. Another part, also around 25–50%, concentrates on pure learning and preparation in the form of multiple‑choice and pre‑structured questions, which test your active knowledge and understanding of the material. 12.03.2025 Slide 7

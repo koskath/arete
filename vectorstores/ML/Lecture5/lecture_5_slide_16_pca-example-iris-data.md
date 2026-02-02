@@ -1,0 +1,6 @@
+# Slide 16 of Lecture 5 contains information about the PCA Example: Iris data.
+
+In the classic iris dataset example, PCA is applied to measurements of sepal length, sepal width, petal length, and petal width taken from 150 iris flowers that belong to three different species, often visualized in three colors (blue, green, and yellow).
+
+# The image in slide 16 of lecture 5 shows an example of how PCA is applied to the Iris flower dataset. 
+At the top center, there is a picture of an iris flower with its parts labeled—specifically the sepal and petal, which are the features measured in the dataset. On the right, a short description explains that there are 150 flowers, each measured by four attributes, and that they belong to three species represented by blue, green, and yellow points. Below the flower image, arrows point downward to two scatterplots. The plot on the left is a 3-dimensional PCA projection, where each point represents one flower, and the three axes correspond to the first three principal components. The plot on the right is a 2-dimensional PCA projection, showing the same flowers but compressed into two components. In both plots, the colors help you see how the species cluster differently once PCA reduces the original four-dimensional data into fewer dimensions.

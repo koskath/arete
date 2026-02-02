@@ -1,0 +1,4 @@
+# Slide 57 of Lecture 12 contains information about DB Schenker transforms standard transportation units into CPS and delivers new types of customer services - Examples for CPS in the real world
+DB Schenker transforms standard transportation units into cyber-physical systems (CPS) and thereby delivers new types of customer services. Embedded microelectronics are used for returnable transportation items, and the functions of the „Secure Box“ include identification and localization of the box, monitoring of the interior space based on sensors, monitoring and remote control of the closing mechanism and route monitoring. These capabilities enable new services concerning theft prevention and the documentation of transportation quality.
+Source: DB Schenker
+12 Digitization and Digitalization 14.03.2025 Slide 57

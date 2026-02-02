@@ -1,0 +1,3 @@
+# Slide 16 of Lecture 8 contains information about the Stochastic Gradient (SG).
+
+Stochastic Gradient minimizes the average of smooth functions, where function f (w) is the error for example 'i'. Iterations perform gradient descent on one random example 'i', which results in cheap iterations even when 'n' is large, but it doesn't always decrease 'f'. It solves the problem if αt goes to 0 at an appropriate rate, where α is the learning rate. SG converges very slowly, but for large datasets there is no other option. To improve performance by reducing variance, we can use "mini-batches" or random samples but not just one random sample. Alternatively, we can use "Variance-reduced" methods for finite training sets.

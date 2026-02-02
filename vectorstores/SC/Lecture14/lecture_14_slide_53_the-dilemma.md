@@ -1,0 +1,4 @@
+# Slide 53 of Lecture 14 contains information about The Dilemma!
+
+The image shows a large ship-breaking yard—most likely Alang—where several massive, end-of-life vessels are beached and dismantled. The foreground is filled with metal scraps, heavy tools, and workers manually cutting apart ship structures, illustrating the labor-intensive and hazardous nature of the industry. 
+Two inset images highlight the underlying dilemma: one shows the French aircraft carrier *Clemenceau*, a symbol of how wealthy nations export old ships to low-cost regions for disposal; the other shows a sign telling Greenpeace to “go back,” reflecting local resistance to environmental activism. Together, the visuals capture the tension between economic dependence on ship recycling, extremely poor working and environmental conditions, and global pressure for safer, cleaner practices.

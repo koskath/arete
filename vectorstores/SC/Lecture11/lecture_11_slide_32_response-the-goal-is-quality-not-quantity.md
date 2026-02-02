@@ -1,0 +1,4 @@
+# Slide 32 of Lecture 11 contains information about Response - The Goal is Quality, not Quantity!
+How long should an answer be?
+Some possible ways to tackle your response:
+When responding to exam questions, the goal is quality rather than quantity, so the length of an answer should be appropriate to the time available and the marks allocated. To tackle your response effectively, first adjust the depth of your answer to the time, and make sure you clearly understand what the questions are by reading directions and questions carefully. Consider how to organise your response and, for essay questions, write an outline before you start writing in full. Get to the point right away when dealing with factual questions, support your opinions with arguments and remember to summarise and write your conclusions down. 12.03.2025 Slide 32

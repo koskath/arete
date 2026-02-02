@@ -1,0 +1,5 @@
+# Here is what the image 1 in slide 7 of lecture 4 contains:
+
+The image displays a horizontal list of seven electronic product items, each with a descriptive text underneath, set against a white background. The title at the top is "Customers who viewed this item also viewed" and is followed by "Page 1 of 6" in the top-right corner. Each product is shown with a picture, description, rating, price, and availability note.
+
+This image illustrates the core idea of item-to-item collaborative filtering. It shows how an online platform recommends products based on the behavior of similar users: if many customers who viewed or purchased one item also viewed another, the system infers a relationship between those items and surfaces them as recommendations. The goal for students is to understand that these suggestions are not based on the attributes of the items themselves, but on patterns learned from aggregated user interactions. This demonstrates how collaborative filtering leverages collective behavior to predict what a given user is likely to be interested in next.

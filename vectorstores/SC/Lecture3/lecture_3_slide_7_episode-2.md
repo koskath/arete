@@ -1,0 +1,2 @@
+# Slide 7 of Lecture 3 contains information about Episode 2
+Actors, roles, objectives: Alice Dias, Purchase of Flemings and her intern talking on negotiations with Exceso Key topic, key messages: Purchase of ClickZipPlus (4-pack) Negotiate 6% discount for 3000 Needs only 1800/2 per quarter: 900 per Quarter Transfers excess purchase to other region (southwest that has only 4 %) and also to VXT Keeps 1000 that are then promoted Session 3 -Integration and Collaboration Slide 7

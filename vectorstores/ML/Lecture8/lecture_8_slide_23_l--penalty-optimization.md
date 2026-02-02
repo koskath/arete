@@ -1,0 +1,4 @@
+# Slide 23 of Lecture 8 contains information about the L -Penalty: Optimization.
+
+
+L0-penalty minimizes selection risk of variable and model selection. The L0-penalized likelihood method is equivalent to the best subset selection. Negative log-likelihood loss is equivalent to L0-penalized likelihood. Squared error (quadratic) loss is equivalent to L0-penalized least squares. Ideally, it balances between training error and the number of features we use. With λ=0, we get least squares with all features. With λ=∞, we must set w=0 and not use any features. With other λ values, it balances between training error and the number of non-zeroes. Larger λ puts more emphasis on having zeroes in 'w', making it more selective of important features. However, we do not use it because computation is infeasible in high-dimensional statistical scenarios due to its nature of combinatorial optimization.

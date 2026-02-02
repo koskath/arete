@@ -1,0 +1,3 @@
+# Slide 10 of Lecture 4 contains information about the K-Nearest Neighbors: KNN.
+
+K-Nearest Neighbors is a non-parametric, supervised learning classifier that uses proximity to make classifications or predictions about how an individual data point should be grouped, and although it can be applied to both regression and classification, it is most often used for classification; first outlined by Evelyn Fix and Joseph Hodges in 1951, KNN today supports simple recommendation systems, pattern recognition, data mining, financial market prediction, and intrusion detection, but it suffers from scaling problems as datasets grow, making it increasingly inefficient and degrading overall performance (see also https://www.ibm.com/in-en/topics/knn).

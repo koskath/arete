@@ -1,0 +1,3 @@
+# Slide 9 of Lecture 8 contains information about the Gradient Descent (GD).
+
+Model parameters are initialized randomly. Random initialization starts the algorithm on the left. The algorithm tweaks parameters repeatedly to minimize the cost function or MSE. It converges to a local minimum, which can be as good as the global minimum. The learning step size is proportional to the slope of the cost function. Steps gradually get smaller as parameters approach the minimum, and the algorithm converges to a minimum. However, if the algorithm starts on the right, it will take a very long time to cross the plateau. If it stops early, it never reaches the global minimum. These are Gradient Descent pitfalls that can occur in both Non-Convex and Convex optimization problems.

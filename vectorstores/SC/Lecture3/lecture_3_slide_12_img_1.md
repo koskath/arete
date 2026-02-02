@@ -1,0 +1,6 @@
+# The image 1 in slide 12 of lecture 3 contains:
+The image depicts a human head in profile facing to the right, constructed entirely from words in varying fonts, sizes, and orientations. The words collectively form the shape of the head, including the brain's suggested area by the top and surrounding regions. The most prominent word, "confusion," appears in bold red letters near the center, spanning horizontally across the area below the brain, suggesting importance.
+
+Words in black and different font styles fill the rest of the head shape. At the top, words like "mindless," "violence," "happiness," and "heart" curve along the head’s contour. Further down, interleaved words like "respect," "rise," "ignorance," and "love" mix with other words such as "collapse," "vanity," and "mess," forming a dense cluster that suggests complexity or chaos.
+
+The collection of words covers the entire head shape, from the top of the cranium to the base of the neck area, with no areas left empty. The words interact spatially by varying in orientation and adjacency, contributing to the overall impression of a head filled with multiple thoughts or concepts. The entire composition is in black and white, with the standout red "confusion" providing a focal point.

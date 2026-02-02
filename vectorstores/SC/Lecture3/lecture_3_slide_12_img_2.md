@@ -1,0 +1,2 @@
+# The image 2 in slide 12 of lecture 3 contains:
+The image contains text with a simple layout. At the top left, the text reads "FRIDAY, 11:10 AM" in black, capital letters. Below this, the text "Small Conference Room," is in blue, with capital letters at the beginning of each word. Further below, the text "McKenna, Palash & Zweig Securities" is also in blue and similarly capitalized. The text is aligned to the left with no other visible elements or annotations.

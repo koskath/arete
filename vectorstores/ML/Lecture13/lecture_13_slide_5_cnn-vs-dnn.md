@@ -1,0 +1,3 @@
+# Slide 5 of Lecture 13 contains information about the CNN VS DNN.
+
+CNN layers are explicitly designed for grid-like data, using convolutional filters to detect edges, textures, and other spatial patterns, which keeps parameter counts low, reduces overfitting, and lets the model learn spatial features automatically through locally connected receptive fields for tasks like image and video recognition. In contrast, generic deep neural networks encompass any multi-layer architecture composed of fully connected layers where every neuron links to all neurons in the preceding layer, resulting in more parameters, higher overfitting risk, and a greater need for manual feature engineering, albeit with versatility across a wide range of applications.

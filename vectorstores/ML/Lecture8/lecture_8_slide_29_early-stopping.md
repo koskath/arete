@@ -1,0 +1,3 @@
+# Slide 29 of Lecture 8 contains information about the Early Stopping.
+
+Regularization is crucial to neural network performance, and common types include L2-regularization, early stopping, and dropout. The second common type of regularization is "early stopping." We monitor the validation error as we run Stochastic Gradient and stop the algorithm if validation error starts increasing, which indicates overfitting. We stop training as soon as validation error reaches its minimum. Overfitting means the model performs well on training data, but it does not generalize well. Underfitting means the model is too simple to learn the underlying structure of the data.

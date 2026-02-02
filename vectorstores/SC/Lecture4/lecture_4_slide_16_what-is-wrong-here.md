@@ -1,0 +1,9 @@
+# Slide 16 of Lecture 4 contains information about What is wrong here?
+
+# The diagram in slide 16 of lecture 4 illustrates a facility layout with multiple production departments and workstations interconnected by material flow paths represented as black lines. On the left side, illustrations depict workers handling materials and documents at the beginning of the process.
+
+The layout contains numerous departments including Raw Stock, Shear, Stamp, Brake, Mill, Lathe, Grind, Weld, Screw Machine, Drill, Finish, two QC (Quality Control) stations, Assembly, Ship, and Stock areas. Multiple arrows at the top indicate incoming material flows entering the facility, while arrows on the right side show outgoing flows toward shipping.
+
+The material flow pattern demonstrates extensive crossing and crisscrossing of paths throughout the facility. Lines travel back and forth between departments multiple times, creating a complex web of interconnections. Materials move from Raw Stock through various processing stations, but the routing shows significant backtracking and non-linear progression. Flow lines traverse the entire length of the facility repeatedly, passing through and around multiple workstations before reaching subsequent operations.
+
+The flow paths indicate that workpieces travel from initial processing areas like Shear and Stamp, then move to various machining operations including Mill, Lathe, and Drill. After machining, materials route to finishing operations such as Grind, Weld, and Finish, passing through quality control checkpoints before reaching Assembly. Throughout this journey, the paths demonstrate excessive material handling distances with numerous direction changes and department revisits. The final routing shows materials converging toward the Assembly area before moving to Stock and ultimately to Ship on the right side of the layout.

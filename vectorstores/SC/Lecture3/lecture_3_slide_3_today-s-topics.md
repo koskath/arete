@@ -1,0 +1,2 @@
+# Slide 3 of Lecture 3 contains information about Today’s topics
+are integration, collaboration, and SCM in the context of the relationship lecture. In particular, we will discuss organization, coordination, and integration issues in the global supply chain, as well as intra- and inter-organizational relationships. In addition, we will examine supply chain collaboration methods and initiatives as part of Session 3 on Integration and Collaboration. Slide 3

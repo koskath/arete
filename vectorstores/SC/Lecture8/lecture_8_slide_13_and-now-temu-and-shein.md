@@ -1,0 +1,3 @@
+# Slide 13 of Lecture 8 contains information about …and now Temu and Shein
+
+According to the European Commission, around 4.6 billion low‑value consignments—i.e. goods with a value not exceeding €150—entered the EU market in 2024, equalling 12 million parcels per day. This volume is twice as many as in 2023 and three times as many as in 2022, and many of these goods have been found to be non‑compliant with European legislation. These developments are closely linked to the rapid growth of platforms such as Temu and Shein. Sources: `https://ec.europa.eu/commission/presscorner/detail/en/ip_25_410` and `https://www.dw.com/en/will-eu-finally-rein-in-chinese-online-retailer-temu/a-70852973`. 13

@@ -1,0 +1,3 @@
+# Slide 15 of Lecture 11 contains information about the Recap: Compare.
+
+Slide 15 recaps the comparison among LSTM, GRU, and Bi-LSTM architectures. The LSTM uses three gates—input, output, and forget—allowing it to capture long-term dependencies in sequential data and handle complex sequences, though the structure is relatively complex. The GRU simplifies the architecture to two gates, resulting in faster training and performance that is often comparable to LSTMs even with less training data, but it may struggle to capture the longest dependencies. The Bi-LSTM stacks two LSTM layers to gain a more comprehensive understanding of sequences and typically delivers better performance, albeit with higher computational complexity and longer training time.

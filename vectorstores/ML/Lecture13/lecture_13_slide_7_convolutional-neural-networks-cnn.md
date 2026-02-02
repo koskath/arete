@@ -1,0 +1,3 @@
+# Slide 7 of Lecture 13 contains information about the Convolutional Neural Networks (CNN).
+
+A color image is represented by separate red, green, and blue channels whose pixel intensities range from 0 to 255, so the data naturally forms a `[height × width × channels]` tensor—e.g., a `[10 × 10 × 3]` array for a small 10-by-10 RGB patch. Neural networks process these multi-channel structures by treating each channel as a distinct color component; every pixel therefore contains three values, and an RGB image is succinctly described as a `w × h × n_c` matrix, with `w` for width, `h` for height, and `n_c` denoting the number of channels.

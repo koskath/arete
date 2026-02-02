@@ -1,0 +1,3 @@
+# Slide 38 of Lecture 14 contains information about the Summary (1/2).
+
+Federated Learning enables collaborative training on decentralized data by letting each party download a shared model, improve it locally, encrypt the updates, and send them back for server-side aggregation before the next iteration—resulting in better models without exposing confidential user information. Transfer Learning complements this by fine-tuning a pre-trained model for related tasks to save time and cost, whether through transductive setups with minimal labeled target data, inductive scenarios where the domain remains the same but tasks differ, or unsupervised cases where both domains lack labels.

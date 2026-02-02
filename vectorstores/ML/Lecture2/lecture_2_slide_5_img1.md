@@ -1,0 +1,5 @@
+# Here is what the image 1 in slide 5 of lecture 2 contains:
+
+The image is a scatter plot with a black curvilinear decision boundary separating two sets of data points. The x-axis ranges from -0.5 to 0.2, marked with tick labels at intervals: -0.5, -0.3, -0.2, -0.1, 0, 0.1, and 0.2. The y-axis ranges from -0.6 to 0.4, with tick labels at intervals: -0.6, -0.4, -0.2, 0, 0.2, and 0.4. Both axes have minor grid lines without any numerical labels beyond the ticks.
+
+The data points are circles, divided into two colors: green and blue. The green circles predominantly occupy the left and upper portion of the plot, while the blue circles are mostly on the right and lower part. The black curve begins near the bottom left of the plot, smoothly curves upwards and to the right, and exits near the top right. It acts as a non-linear separation between the green and blue data points. The distribution of points suggests a clustering on either side of the curve, with minimal overlap.

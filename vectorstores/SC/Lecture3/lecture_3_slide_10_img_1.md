@@ -1,0 +1,8 @@
+# The image 1 in slide 10 of lecture 3 contains:
+A rectangular card features a detailed multi-section layout with imagery and text. The top section contains the card name “White Knight” in black serif font, positioned at the left. In the top right corner, two small white circles each containing a green tree symbol are visible, representing game mana cost.
+
+The central portion of the card displays a vibrant illustration framed by a thin black border. The artwork depicts a knight in ornate armor mounted on a white horse. The knight holds a lance upright with a blue pennant. The armor is metallic, with a gleaming texture, and the horse is draped in a white caparison decorated with blue stars. The knight’s helmet is topped with a blue feather, and his face is not visible. In the background is a partially visible stone castle with red roof tiles, set against a bright blue sky with fluffy white clouds. The foreground shows a green grass landscape.
+
+Below the illustration is a beige-textured text box containing descriptive card details. In bold serif italic font, "Summon Knight" is written. Underneath, additional text reads: "Protection from black, first strike." Further down in smaller, italicized script: "Out of the blackness and stench of the engulfing swamp emerged a shimmering figure. Only the splattered armor and ichor-stained sword hinted at the unfathomable evil the knight had just laid waste."
+
+At the bottom edge, a footer displays "Illus. © Daniel Gelon" on the left. On the right, a fraction “2/2” is shown, indicating the card's power and toughness values. The background of the card text is marbled gray, providing a textured backdrop that distinguishes the text from the illustration above.

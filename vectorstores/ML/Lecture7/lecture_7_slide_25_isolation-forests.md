@@ -1,0 +1,3 @@
+# Slide 25 of Lecture 7 contains information about the Isolation Forests*.
+
+The Isolation Forest algorithm works by randomly selecting a feature and then randomly selecting a split value within that feature's range for the instances in the current node, partitioning the data into two child nodes based on this split value, and repeating this process recursively for each child node until either each leaf node contains only one instance or a predefined maximum depth is reached, using the feature's minimum and maximum values for the node's instances at each step; the resulting anomaly scores range from 0 (not an anomaly) to 1 (an anomaly), and this approach is particularly useful for detecting fraudulent transactions or other anomalies in large datasets.

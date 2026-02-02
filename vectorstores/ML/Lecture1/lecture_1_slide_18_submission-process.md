@@ -1,0 +1,2 @@
+# Slide 18 of Lecture 1 contains information on the Submission Process of the Assignments
+The Teacher adds the question paper by creating "CANVAS Assignment". Students must add their student numbers on the mandatory home assignment (on Canvas) to make it easier for the teacher to find them on Digital Exam. Students hand in their mandatory assignment on CANVAS. Teacher checks the assignments on CANVAS. Teacher grades them on Digital Exam

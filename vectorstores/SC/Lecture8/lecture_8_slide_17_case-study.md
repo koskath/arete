@@ -1,0 +1,4 @@
+# Slide 17 of Lecture 8 contains information about CASE STUDY
+
+Sell Direct-to-Consumer or Through Amazon?
+This case study, “Sell Direct‑to‑Consumer or Through Amazon?”, raises several key questions. First, you are asked to discuss the pros and cons of selling through Amazon. Second, you should consider which bikes Pedal Spark ought to sell through Amazon, namely whether it should be the present luxury e‑bike for \$4,000, the new budget e‑bike for \$899 or both. Third, you are invited to evaluate which option offered by Amazon may be better for Pedal Spark: selling products to Amazon for it to resell; selling bikes themselves on Amazon and letting Amazon handle warehousing and shipping; or listing the bikes on Amazon while handling shipping on their own. More details about Amazon’s services can be found at `https://sell.amazon.se/en`. 17

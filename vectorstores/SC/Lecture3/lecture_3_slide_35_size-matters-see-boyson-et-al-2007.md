@@ -1,0 +1,2 @@
+# Slide 35 of Lecture 3 contains information about Size matters! – see Boyson et al. 2007
+ Overseas collaboration is problematic!  As the degree of internationalisation increases, firms will have to develop stronger SCM capabilities  Larger companies tend to have sophisticated scm programs. Only the bigger firms find it relevant to invest in cross-border collaboration and partnership initiatives Session 3 -Integration and Collaboration Slide 35

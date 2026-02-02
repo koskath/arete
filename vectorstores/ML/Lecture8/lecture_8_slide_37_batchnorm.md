@@ -1,0 +1,3 @@
+# Slide 37 of Lecture 8 contains information about the BatchNorm.
+
+Batch Normalization is tricky to use in RNNs but sufficient for other nets. Gradient Clipping* is often used in RNNs to mitigate the exploding gradients problem. However, gradient clipping does not help with vanishing gradients. Gradient Clipping clips the gradients during backpropagation so that they never exceed some threshold. BatchNorm acts like a regularizer, reducing the need for other regularization techniques such as dropout. However, BN adds a runtime penalty to the neural network. Training is rather slow because each epoch takes much more time when BN is in use.

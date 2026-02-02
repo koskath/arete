@@ -1,0 +1,3 @@
+# Slide 18 of Lecture 8 contains information about the Learning Rate/Step size.
+
+Learning rate controls how quickly the model is adapted to the problem. Smaller learning rates require more training epochs, while larger learning rates require fewer training epochs. However, a large learning rate can converge too quickly to a suboptimal solution, and a small learning rate would stuck the model. For convergence, we need a decreasing step size that shrinks to zero to converge to w*. This can be achieved by using a step-size sequence, for example αt = .001/t. However, this works badly in practice because initial steps are very large, and later steps get very tiny. A better approach is to use constant or slowly-decreasing step-sizes and/or average wt.

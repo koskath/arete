@@ -1,0 +1,3 @@
+# Slide 26 of Lecture 4 contains information about the Linear Regression: Key Assumptions.
+
+Key assumptions for linear regression include using quantitative dependent and independent variables (with categorical variables converted to binary), checking each variable’s valid case count, mean, and standard deviation, reviewing model-level information such as regression coefficients, correlation and variance–covariance matrices, and inspecting scatterplots, partial plots, and histograms; additionally, for each value of the independent variable the dependent variable’s distribution should be normal, the relationships between the dependent and each independent variable should be linear, and all observations should be independent.

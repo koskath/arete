@@ -1,0 +1,4 @@
+# The image 2 in slide 5 of lecture 6 contains:
+Left logo (Support British Industry): A circular badge featuring the Union Jack (UK flag) with the words “Support British Industry – Buy British Products” around it. It visually represents local sourcing and national production.
+Middle logo (America First): A circular emblem with red, white, and blue colors, stars and stripes, and the phrase “America First.” It symbolizes domestic sourcing and prioritizing national goods.
+Right image (Earth/Globe): A black-and-white globe icon showing multiple continents. It represents global sourcing, highlighting international supply chains across world regions.

@@ -1,0 +1,2 @@
+# Slide 9 of Lecture 3 contains information about Episode 4
+Actors, roles, objectives: Andrea Valdini (now in the role as a consumer) Store manager Key topic, key messages: Out of stock on the 8-packs “They‘re having problems with the eights, I will discount a four-pack if you want“ Take the Carlex eight pack Cheaper and just as good “They can’t keep this up much longer“ Session 3 -Integration and Collaboration Slide 9

@@ -1,0 +1,3 @@
+# Slide 15 of Lecture 8 contains information about the Stochastic Gradient Training.
+
+We randomly sample gradients instead of averaging all of them. An average estimate is faster to compute. Optimization is important because neural network objectives are highly non-convex, and this becomes worse with depth. Optimization has a huge influence on the quality of the model. The standard training method is stochastic gradient (SG), which works for both Non-Convex and Convex problems. The process involves choosing a random example 'i', using backpropagation to get the gradient with respect to all parameters, and taking a small step in the negative gradient direction. However, it is hard to get SG to even find a local minimum.

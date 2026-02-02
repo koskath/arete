@@ -1,0 +1,14 @@
+# Slide 40 of Lecture 4 contains information about Serving global Markets – Economies of Scale don`t stop at borders
+
+# The diagram in slide 40 of lecture 4 illustrates the evolution of global supply chain structures across three time periods, organized under two strategic implementation steps;
+The framework progresses horizontally from left to right, showing the transformation from "Used to be" through "now" to "tomorrow," while vertically demonstrating the flow from global production to local markets.
+
+At the top of the framework, two strategic steps are indicated. Step 1 is labeled "Rationalization," covering the transition from the historical model to the current state. Step 2 is labeled "High-level service logistics," spanning the progression from current to future state.
+
+The left column represents the historical "Used to be" configuration. At the apex, global primary production is depicted with factory icons. Below this, National Formulation and Packaging facilities are shown with multiple factory symbols, indicating country-specific processing operations. Six downward arrows connect these facilities to the next level, where national Distribution centers are illustrated with truck icons arranged in groups. Multiple bidirectional arrows then connect the distribution centers to the bottom level, representing Local Markets including wholesalers, pharmacies, and hospitals.
+
+The middle column shows the "now" configuration, marked by a shaded background. Global primary production remains at the top with factory icons. The second tier shows focused "Europlants" facilities, representing consolidated European production sites with fewer but larger operations. Multiple arrows flow from production to these focused facilities. National Distribution centers appear at the third level, depicted with truck icons. The structure maintains multiple distribution points connecting to Local Markets at the bottom, serving wholesalers, pharmacies, and hospitals through various bidirectional arrows.
+
+The right column presents the "tomorrow" future state configuration, also with a shaded background. Global primary production continues at the top tier. Focused "Europlants" remain at the second level, maintaining consolidated production. The third tier introduces a significant change with Regional Districenter and Euro-Districenter facilities, represented by truck icons but in a more streamlined configuration compared to previous models. Arrows connect these facilities to Local Markets at the bottom, serving wholesalers, pharmacies, and hospitals.
+
+The progression demonstrates increasing consolidation and rationalization across the supply chain tiers, reducing the number of intermediate nodes while maintaining service to local markets. The arrow patterns become more streamlined from left to right, indicating improved efficiency and reduced complexity in the distribution network structure.

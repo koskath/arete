@@ -1,0 +1,5 @@
+# Slide 29 of Lecture 9 contains information about State of the Art Order Picking
+
+Source: https://www.youtube.com/watch?v=udr0OOxmPbc
+
+This image captures a "State of the Art Order Picking" system, visually demonstrating the shift towards extreme automation in modern warehousing known as "Goods-to-Person" (GTP) fulfillment. The scene features a fleet of small, autonomous mobile robots (AMRs)—visible as the low-profile orange units—navigating a grid-marked floor beneath high-density shelving. In this supply chain model, the robots identify and lift specific storage racks containing requested inventory and transport the entire unit directly to a stationary human picker. This approach contrasts sharply with traditional "person-to-goods" picking, where workers spend significant time walking up and down aisles to retrieve items. By bringing the inventory to the worker, this system drastically reduces travel time, increases order accuracy to near-perfect levels, and maximizes storage capacity by eliminating the need for wide aisles for human access.
