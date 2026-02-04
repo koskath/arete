@@ -82,6 +82,10 @@ env/
 *.sublime-project
 *.sublime-workspace
 
+#arete_deployment
+arete_deployment 
+
+
 # Database files
 *.db
 *.sqlite
